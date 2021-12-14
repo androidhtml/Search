@@ -520,7 +520,7 @@
                 }, {
                     "name": "必应壁纸",
                     "type": "changebg",
-                    "value": "setBingImage",
+                    "value": "setdefault",
                     "href": "",
                     "color": "",
                     "icon": "",
@@ -529,7 +529,7 @@
                 }, {
                     "name": "恢复默认",
                     "type": "changebg",
-                    "value": "setdefault",
+                    "value": "setBingImage",
                     "href": "",
                     "color": "",
                     "icon": "",
