@@ -520,7 +520,7 @@
                 }, {
                     "name": "必应壁纸",
                     "type": "changebg",
-                    "value": "setdefault",
+                    "value": "setBingImage",
                     "href": "",
                     "color": "",
                     "icon": "",
@@ -529,7 +529,7 @@
                 }, {
                     "name": "恢复默认",
                     "type": "changebg",
-                    "value": "setBingImage",
+                    "value": "setdefault",
                     "href": "",
                     "color": "",
                     "icon": "",
@@ -824,7 +824,7 @@
                 "content": [{
                     "name": "简介",
                     "value": "introduction",
-                    "href": "https://github.com/virzs/Search",
+                    "href": "https://github.com/androidhtml/Search/Search",
                     "color": "#0078D4",
                     "icon": "fa fa-pencil-square-o",
                     "show": true,
@@ -832,11 +832,11 @@
                 }, {
                     "name": "作者",
                     "value": "author",
-                    "href": "https://github.com/virzs",
+                    "href": "https://github.com/androidhtml/Search",
                     "color": "#D0104C",
                     "icon": "fa fa-user-o",
                     "show": true,
-                    "content": "Vir"
+                    "content": "水啊二改"
                 }, {
                     "name": "联系方式",
                     "value": "contact",
@@ -851,16 +851,16 @@
                         "color": "#0078D4",
                         "icon": "fa fa-envelope-o",
                         "show": true,
-                        "content": "zcccxyss@outlook.com"
+                        "content": "无"
                     }, {
                         "name": "GitHub",
                         "value": "github",
                         "type": "innerlist",
-                        "href": "https://github.com/virzs",
+                        "href": "https://github.com/androidhtml/Search",
                         "color": "#24292E",
                         "icon": "fa fa-github-alt",
                         "show": true,
-                        "content": "https://github.com/virzs"
+                        "content": "https://github.com/androidhtml/Search"
                     }, {
                         "name": "QQ群",
                         "value": "qqgroup",
@@ -869,7 +869,7 @@
                         "color": "#24292E",
                         "icon": "fa fa-qq",
                         "show": true,
-                        "content": "859791575"
+                        "content": "无"
                     }]
                 }]
             }, {
@@ -955,7 +955,7 @@
         }]
     },
     "copyright": {
-        "href": "https://www.virs.xyz",
+        "href": "https://dh.shui.tk/",
         "show": true,
         "content": "©#before#-#after# by #author#. All rights reserved."
     }
